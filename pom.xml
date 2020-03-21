@@ -10,6 +10,9 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>genre-watch-stats</module>
+        <module>broadcast-rights-stats</module>
+        <module>product-user-count</module>
+        <module>common</module>
     </modules>
 
     <dependencies>

@@ -6,6 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="common" />
+        <module name="broadcast-rights-stats" />
+        <module name="product-user-count" />
         <module name="genre-watch-stats" />
       </profile>
     </annotationProcessing>
